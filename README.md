@@ -31,5 +31,5 @@ Screenshot from tableau file
 
 ## Analyzing:
 
-![result](Images/number of subs.png)
-![result](Images/Peak Hour.png)
+![result](Images/number_of_subs.png)
+![result](Images/Peak_Hour.png)
