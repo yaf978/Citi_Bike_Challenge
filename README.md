@@ -34,5 +34,5 @@ Screenshot from tableau file
 
 ![result](Images/number_of_subs.png)
 
-- we find that the peak hour of bike use are between 5pm to 7pm
+- we find that the peak hours of bike use are  between 5 pm to 7 pm
 ![result](Images/Peak.png)
