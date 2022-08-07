@@ -30,6 +30,8 @@ Screenshot from tableau file
 
 
 ## Analyzing:
+- from the study, we find that the number of subscribers is affected by Covid-19 and decreasd in 2020 then start to increase in 2021 and 2022 also putting electrical bikes in service effect the number of custumers in general.
 
 ![result](Images/number_of_subs.png)
+
 ![result](Images/Peak_Hour.png)
