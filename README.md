@@ -11,10 +11,16 @@ link2: https://s3.amazonaws.com/tripdata/index.html
 
 ## Summary:
 
+I got data for June for the years 2019 to 2022 and cleaned it and format using python and pandas and save it in one file
 
-I got data for June for the years 2019 to 2022 and cleaned it and format using python and pandas and save it on one file
 
-![Cleaning code](Images/code.png)
+
+
+
+
+
+
+
 
 ## Tableau Work:
 
@@ -30,7 +36,18 @@ Screenshot from tableau file
 
 
 ## Analyzing:
-- from the study, we find that the number of subscribers is affected by Covid-19 and decreases in 2020 then starts to increase in 2021 and 2022 also putting electrical bikes in service affect the number of customers in general.
+
+	some of the questions I tried to answer by analyzing :
+	How many trips have been recorded in total during the chosen period?
+	What are the peak hours when bikes are used during chosen period?
+	What are the top 10 stations in the city for starting a journey?
+	How does the average trip duration change by age?
+	What is the average distance in miles for a bike trip?
+	Gender usage
+
+Some Answers
+- from the study, we find that the number of subscribers is affected by Covid-19 and decreases in 2020 then starts to increase in 2021 and 2022.
+-Putting electrical bikes in service affects the number of customers in general.
 
 ![result](Images/number_of_subs.png)
 
