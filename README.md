@@ -37,13 +37,14 @@ Screenshot from tableau file
 
 ## Analyzing:
 
-1- some of the questions I tried to answer by analyzing :
-2- How many trips have been recorded in total during the chosen period?
-3- What are the peak hours when bikes are used during chosen period?
-4- What are the top 10 stations in the city for starting a journey?
-5- How does the average trip duration change by age?
-6- What is the average distance in miles for a bike trip?
-7- Gender usage
+some of the questions I tried to answer by analyzing :
+
+1. How many trips have been recorded in total during the chosen period?
+2. What are the peak hours when bikes are used during chosen period?
+3. What are the top 10 stations in the city for starting a journey?
+4. How does the average trip duration change by age?
+5. What is the average distance in miles for a bike trip?
+6. Gender usage
 
 Some Answers
 - from the study, we find that the number of subscribers is affected by Covid-19 and decreases in 2020 then starts to increase in 2021 and 2022.
